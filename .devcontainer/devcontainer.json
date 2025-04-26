@@ -1,0 +1,7 @@
+{
+  "tasks": {
+    "test": "echo \"No tests available in this repository.\"",
+    "build": "# No build command necessary",
+    "launch": "bash deepseek_bash_20250425_41a422.sh && bash deepseek_bash_20250425_564248.sh && bash deepseek_bash_20250425_5f1aba.sh && bash deepseek_bash_20250425_ddb727.sh && bash deepseek_bash_20250425_f1d4e5.sh && python deepseek_python_20250425_2cc10d.py && python deepseek_python_20250425_3f91cb.py"
+  }
+}
